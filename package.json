@@ -1,14 +1,14 @@
 {
   "name": "portfolio",
   "description": "A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
-  "homepage": "http://hashirshoaeb.com",
+  "homepage": "http://vicente-cp.github.io",
   "version": "0.2.0",
   "license": "MIT",
   "private": true,
   "author": {
-    "name": "Hashir Shoaib",
-    "email": "hashirshoaeb@gmail.com",
-    "url": "https://github.com/hashirshoaeb"
+    "name": "Vicente Cortés Puschel",
+    "email": "vicente.cortes.puschel@gmail.com",
+    "url": "https://github.com/vicente-cp"
   },
   "scripts": {
     "prebuild": "node scripts/favicons.js",
